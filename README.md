@@ -23,8 +23,8 @@ Step 8: Stop the program.
 
 # Program:
 ```
-Developed by : SHALINI.K
-Register Number : 212222240095
+Developed by : M.SAKTHIVEL
+Register Number : 212222240088
 #include <stdio.h>
 int main()
 {
@@ -82,8 +82,8 @@ To implement file management using Indexed list.
 
 # Program:
 ```
-Developed by : SHALINI.K
-Register Number : 212222240095
+Developed by : M.SAKTHIVEL
+Register Number : 212222240088
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
